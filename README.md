@@ -1,7 +1,7 @@
 COLLADA framework for &lt;oXygen/&gt;
 =====================================
 
-This is a [oXygen](http://www.oxygenxml.com/) framework for supporting
+This is an [oXygen](http://www.oxygenxml.com/) framework for supporting
 [COLLADA](http://collada.org/) (.dae) files.
 
 Installation
