@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2008/03/COLLADASchema" version="1.5.0">
+   <asset>
+      <contributor>
+         <authoring_tool>oXygen</authoring_tool>
+      </contributor>
+      <created>2008-03-31T00:00:00Z</created>
+      <modified>2008-03-31T00:00:00Z</modified>
+      <unit name="meters" meter="1.0"/>
+      <up_axis>Z_UP</up_axis>
+   </asset>
+</COLLADA>

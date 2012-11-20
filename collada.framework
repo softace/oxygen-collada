@@ -114,7 +114,9 @@
 						</authorExtension>
 					</field>
 					<field name="templatesLocations">
-						<String-array/>
+						<String-array>
+							<String>${frameworkDir}/templates/1.4.1</String>
+						</String-array>
 					</field>
 					<field name="xmlCatalogs">
 						<String-array/>
@@ -206,7 +208,7 @@
 				</documentTypeDescriptor>
 				<documentTypeDescriptor>
 					<field name="name">
-						<String>COLLADA 1.5</String>
+						<String>COLLADA 1.5.0</String>
 					</field>
 					<field name="schemaDescriptor">
 						<docTypeSchema>
@@ -314,7 +316,9 @@
 						</authorExtension>
 					</field>
 					<field name="templatesLocations">
-						<String-array/>
+						<String-array>
+							<String>${frameworkDir}/templates/1.5.0</String>
+						</String-array>
 					</field>
 					<field name="xmlCatalogs">
 						<String-array/>
