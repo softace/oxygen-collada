@@ -8,14 +8,16 @@
         <xt:oxy_version>14.0+</xt:oxy_version>
         <xt:type>framework</xt:type>
         <xt:author>Jarl Friis</xt:author>
-        <xt:name>collada</xt:name>
+        <xt:name>COLLADA framework</xt:name>
         <xt:description>
             <body xmlns="http://www.w3.org/1999/xhtml">
-                <p>COLLADA framework for oXygen.</p>
+                <p>COLLADA framework for <a href="http://www.oxygenxml.com/">oXygen</a>. This framework adds support for <a href="http://collada.org/">COLLADA</a> files (typical file extension is <tt>.dae</tt>).</p>
+                <p>The framework source code is maintained on <a href="https://github.com/softace/oxygen-collada">https://github.com/softace/oxygen-collada</a></p>
             </body>
         </xt:description>
         <xt:license>
 <![CDATA[
+The MIT License (MIT)
 
 Copyright (C) Jarl Friis
 
