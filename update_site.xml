@@ -9,7 +9,11 @@
         <xt:type>framework</xt:type>
         <xt:author>Jarl Friis</xt:author>
         <xt:name>collada</xt:name>
-        <xt:description xmlns="http://www.w3.org/1999/xhtml"></xt:description>
+        <xt:description>
+            <body xmlns="http://www.w3.org/1999/xhtml">
+                <p>COLLADA framework for oXygen.</p>
+            </body>
+        </xt:description>
         <xt:license>
 <![CDATA[
 
